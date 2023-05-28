@@ -3,7 +3,7 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 - 🔭 I’m currently working on **Virety**
 
-- 🌱 I’m currently learning **C, Node js & Go**
+- 🌱 I’m currently learning **C++, Node js & Go**
 
 - 💬 Ask me about **Javascript, python**
 
