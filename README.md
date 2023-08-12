@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Adeoluwa</h1>
-<h3 align="center">Software Engineer | I Love Cloud, linux and open source</h3>
+<h3 align="center">Software engineer | Linux fanboy, open sourcerer & cloud technology enthusiast</h3>
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 - 🔭 I’m currently working on **Virety**
 
