@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Adeoluwa</h1>
-<h3 align="center">Fullstack Software engineer | Linux fanboy</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🔭 I’m currently working on [FitSync](https://fitness-sync.vercel.app/)
+- 🔭 I’m currently working on DApps
 
-- 🌱 I’m currently learning **Rust & Kotlin**
+- 🌱 I’m currently learning **Solidity & Move**
 
 - 👨‍💻 All of my projects are available at [https://samuel-adeoluwa.vercel.app/](https://samuel-adeoluwa.vercel.app/)
 
-- 💬 Ask me about **Javascript, python**
+- 💬 Ask me about **Javascript, python & Solidity**
 
 - 📫 How to reach me **samadeol03@gmail.com**
 
