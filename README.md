@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Adeoluwa</h1>
+<h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">Fullstack Developer</h3>
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Solidity & Move**
 
-- 👨‍💻 All of my projects are available at [https://samuel-adeoluwa.vercel.app/](https://samuel-adeoluwa.vercel.app/)
 
 - 💬 Ask me about **Javascript, python & Solidity**
 
